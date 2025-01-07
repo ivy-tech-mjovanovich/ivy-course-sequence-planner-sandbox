@@ -71,7 +71,7 @@ export const courseNodes = [
     data: { label: "SDEV 140 - Introduction to Software Development" },
   },
   {
-    id: "TEST",
+    id: "TEST2",
     programCore: ["AAS"],
     data: { label: "A test node" },
   },
