@@ -10,7 +10,7 @@
     "lint": "eslint .",
     "preview": "vite preview",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist -u \"github-actions-bot <support+actions@github.com>\""
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "@xyflow/react": "^12.3.6",
