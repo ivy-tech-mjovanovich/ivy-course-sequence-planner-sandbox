@@ -1,5 +1,5 @@
 {
-  "name": "ivy-course-planner-sandbox",
+  "name": "ivy-course-sequence-planner-sandbox",
   "homepage": "https://ivy-tech-mjovanovich.github.io/ivy-course-sequence-planner-sandbox/",
   "private": true,
   "version": "0.0.0",
@@ -10,7 +10,7 @@
     "lint": "eslint .",
     "preview": "vite preview",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist"
+    "deploy": "gh-pages -d dist -u \"github-actions-bot <support+actions@github.com>\""
   },
   "dependencies": {
     "@xyflow/react": "^12.3.6",
