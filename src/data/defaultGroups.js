@@ -1,3 +1,4 @@
+// Update the parentId to the semester you want the course to be in.
 export const defaultGroups = [
   // F1
   { id: "INFM109", parentId: "F1" },
@@ -5,27 +6,17 @@ export const defaultGroups = [
 
   // F2
   { id: "SDEV140", parentId: "F2" },
-  { id: "VISC104", parentId: "F2" },
 
   // S3
-  { id: "SDEV153", parentId: "S3" },
-  { id: "VISC202", parentId: "S3" },
 
   // S4
-  { id: "SDEV155", parentId: "S4" },
-  { id: "DBMS110", parentId: "S4" },
 
   // F5
-  { id: "SDEV2xx", parentId: "F5" },
-  { id: "SDEV255", parentId: "F5" },
 
   // F6
-  { id: "SDEV257", parentId: "F6" },
-  { id: "SVAD150", parentId: "F6" },
 
   // S7
   { id: "CPIN269", parentId: "S7" },
-  { id: "SDEV265", parentId: "S7" },
 
   // S8
   { id: "CPIN279", parentId: "S8" },
@@ -36,17 +27,4 @@ export const defaultGroups = [
   { id: "MATH136", parentId: "" },
   { id: "HUMANITIES", parentId: "" },
   { id: "SCIENCE", parentId: "" },
-
-  { id: "INFM209", parentId: "" },
-  { id: "SDEV148", parentId: "" },
-  { id: "SDEV160", parentId: "" },
-  { id: "SDEV200", parentId: "" },
-  { id: "SDEV210", parentId: "" },
-  { id: "SDEV230", parentId: "" },
-  { id: "SDEV245", parentId: "" },
-  { id: "SDEV248", parentId: "" },
-  { id: "SDEV250", parentId: "" },
-  { id: "SDEV260", parentId: "" },
-  { id: "SDEV264", parentId: "" },
-  { id: "SDEV27X", parentId: "" },
 ];
