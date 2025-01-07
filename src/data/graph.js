@@ -71,9 +71,9 @@ export const courseNodes = [
     data: { label: "SDEV 140 - Introduction to Software Development" },
   },
   {
-    id: "TEST2",
+    id: "TEST",
     programCore: ["AAS"],
-    data: { label: "A test node" },
+    data: { label: "Test - A test node" },
   },
 
   // Add the rest of your courses; organize and label programCore as you see fit...
